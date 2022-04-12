@@ -28,7 +28,6 @@ body, html{
 
 #nav {
     color: #5B0000;
-    font-family: "DejaVu Sans Light";
 
 }
 
@@ -54,7 +53,6 @@ body, html{
 .jumbotron {
     text-align: center;
     color: #FFFFFF;
-    font-family: "DejaVu Sans Light";
     margin-bottom: 0;
     background-size: cover;
     text-shadow:
@@ -65,7 +63,6 @@ body, html{
 }
 
 #homeHeading {
-    font-family: "DejaVu Sans Light";
 }
 
 
